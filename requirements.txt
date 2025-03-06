@@ -1,0 +1,4 @@
+spicy
+matplotlib
+networkx
+speedtest-cli
